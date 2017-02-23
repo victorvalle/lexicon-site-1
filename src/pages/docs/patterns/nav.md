@@ -1,15 +1,18 @@
 ---
-title: "Nav WIP"
-description: "Spinner pattern description"
+title: "Nav"
+description: "Nav pattern description"
 layout: "guide"
 weight: 1
 ---
 
 ## Definition
-Nav is the pattern that defines the vertical navigation pattern.
+Nav is the pattern that defines the navigation pattern.
 
-## Usage
+## Variations
 
+Nav can be use either for horizontal or vertical navigation structures. This page shows different simple use cases of this pattern that will be applied in a bit more complex patterns such us [navbar](./navbar.html).
+
+### Vertical
 A vertical navigation can be simple or it can be nested, where some of the entries could have interior levels of navigation.
 
 ![nav stacked](../../../images/navStacked.png)
@@ -20,15 +23,7 @@ It is possible to nest as many levels as you want in a nested navigation but we 
 
 ![nav stacked](../../../images/navNested.png)
 
+### Horizontal
+A nav can be also configured in horizontal for different purposes as can be the [navbar](./navbar.html).
 
-
-Nav
-Nested nav
-Nested nav (margins)
-Nav equal height
-Nav pills
-Nav pills justified
-Nav pills stacked
-Nested nav pills stacked
-Nav helper classes
-
+![nav stacked](../../../images/navHorizontal.png)

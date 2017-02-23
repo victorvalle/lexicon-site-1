@@ -1,12 +1,12 @@
 ---
-title: "Spinner WIP"
-description: "Spinner pattern description"
+title: "Loading indicator"
+description: "Loading indicator pattern description"
 layout: "guide"
 weight: 1
 ---
 
 ## Definition
-Spinners show the user that an external process, like a connection, is being executed.
+Loading indicator shows the user that an external process, like a connection, is being executed.
 
 ## Usage
 
@@ -14,13 +14,14 @@ This feedback mechanism is essential for the user to understand that something i
 
 Please don’t use spinners inside buttons. In case you need a spinner for an action triggered by a button, place the spinner to one of the sides of the button.
 
+<div class="loading-icon loading-icon-md"></div>
 
 ### Types
 
 | Types | Description |
 | ---- | ----- |
-| Dotted spinner default image | Dotted spinner default |
-| Linear spinner default image | Linear spinner default |
+| <div class="loading-icon loading-icon"></div> | Dotted spinner default |
+| <div class="loading-icon linear"></div> | Linear spinner default |
 
 ### Size
 

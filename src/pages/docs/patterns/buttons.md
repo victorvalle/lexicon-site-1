@@ -49,13 +49,19 @@ Buttons communicate an action to happen on user interaction.
 
 ### Variations
 
-#### Block level
+#### Icon button
+
+Buttons can icons insted of text and for that icons need to be monospaced inside the button. Lexicon do not use buttons with text and icon, or text and loading indicator. Icon buttons are used intensively in [management bars](./management_bar.html).
+
+![icon button](../../../images/buttonIcon.png)
+
+#### Block level button
 
 All buttons can also be configured at block level. Use this configuration in those cases that you need the user to realize there is an important action to be done. It could be used as a load more action below a list, as an example. Please do not use it in forms. Be always careful with the type button to use, primary is not always the best choice neither the only configuration.
 
 ![block level button primary state, default size](../../../images/buttonBlockLevelPrimary.png)
 
-#### Dropdown
+#### Dropdown button
 
 Dropdown buttons are always used together with a dropdown menu.
 
