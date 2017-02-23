@@ -20,5 +20,5 @@ This toolbar is used in almost every page in the system. It can have different c
 
 ### Examples
 
-![animated gif that shows how a header toolbar work with different interactions](../../../images/headerToolbarExample.gif)
+![animated gif that shows how a header toolbar work with different interactions](../../../images/headerExample.gif)
 

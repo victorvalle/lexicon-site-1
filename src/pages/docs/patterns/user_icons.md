@@ -1,5 +1,5 @@
 ---
-title: "User icons WIP"
+title: "User icons"
 description: "User icons pattern description"
 layout: "guide"
 weight: 1
@@ -15,14 +15,16 @@ Use a user icon to identify a user inside a context. User icons in Lexicon are a
 
 ### Size
 
+![all 6 user icons sizes](../../../images/userIcon.png)
+
 | Size | Usage |
 | ---- | ----- |
-| ![default image](../../../images/lexiconDefault.png) | **Extra small**: 22px. Use it in timelines and cards as identifier. Use it when you need to include many users. |
-| ![default image](../../../images/lexiconDefault.png) | **Small**: 30px. Use it in timelines and cards as identifier. |
-| ![default image](../../../images/lexiconDefault.png) | **Default**: 32px. The most common usage. |
-| ![default image](../../../images/lexiconDefault.png) | **Large**: 45px. Use it in user centered contexts as user cards. |
-| ![default image](../../../images/lexiconDefault.png) | **Extra large**: 64px. Use it in user centered contexts as user cards. |
-| ![default image](../../../images/lexiconDefault.png) | **Extra extra large**: 128px. Use it in user centered contexts as user cards. |
+| Extra small | 22px. Use it in timelines and cards as identifier. Use it when you need to include many users. |
+| Small | 30px. Use it in timelines and cards as identifier. |
+| Default | 32px. The most common usage. |
+| Large | 45px. Use it in user centered contexts as user cards. |
+| Extra large | 64px. Use it in user centered contexts as user cards. |
+| Extra estra large | 128px. Use it in user centered contexts as user cards. |
 
 ### Types
 
@@ -30,10 +32,10 @@ Use a user icon to identify a user inside a context. User icons in Lexicon are a
 
 User images help to personalize the interface. In case you have your user image and can make use of it, use this type of user icon.
 
-![default image](../../../images/lexiconDefault.png)
+![all 6 user icons sizes with image](../../../images/userIconImages.png)
 
 #### User icon with text
 
 Sometimes you won’t have the user image or won’t be allowed to use it. In those cases use this pattern. The text must be always in capital letters and a maximum of 2 letters. Use first letter from Name and Surname (NS). 
 
-![default image](../../../images/lexiconDefault.png)
+![all 6 user icons sizes with text](../../../images/userIcon.png)

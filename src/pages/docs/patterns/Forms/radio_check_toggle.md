@@ -105,3 +105,18 @@ A toogle is an interface element that by its activation or deactivation provokes
 
 ![switch disable state](../../../images/switchDisabled.png)
 
+### Variations
+
+#### Toggle with data attributes
+
+This type of toggles have labels around as the title label or other support label that make more explicit the switch value. The support label can be either at the top, right, bottom or left and its value should change with the toggle state change as the example shows. All the labels have the interaction that the switch have making the toggle more accessible.
+
+![switch with title and label on the right side, all off them switch off and on the toggle](../../../images/switchAttributes.png)
+
+#### Toggle with icon
+
+Toggles can also have an icon inside the toggle circle that helps to identify the action. A toggles with icon can also have data attributes as the previous variation.
+
+![toggle with icon](../../../images/switchIcon.png)
+
+

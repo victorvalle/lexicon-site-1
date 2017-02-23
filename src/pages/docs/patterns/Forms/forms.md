@@ -23,6 +23,10 @@ Sections help users to fill a form by chunking the form is smaller pieces. A for
 
 TODO: Review: In case you need to use a subsection use header X
 
+### Fields’ order
+
+Laying out the fields of your form we recommend you to follow an order of importance. Try to place first as many mandatory fields when possible to make the user task short. Non mandatory fields should go in a second place as they are not so important and the user could like to skip them. In case non mandatory fields are in between mandatory fields the user would expend more time scanning the form.
+
 ### Fields’ lengths
 
 Fields must occupy the space you expect your user needs to fill it. The only requirement for fields is to adapt their width to the grid so they behave properly on window resize. Sharp shape forms do not go against Lexicon but we prefer rectangular shape form as they look more clear.

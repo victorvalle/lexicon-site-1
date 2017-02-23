@@ -61,7 +61,7 @@ By default, Lexicon does not use the hover state in tables.
 
 In the following example you can see how hover works even with a selected row.
 
-![table hover case](../../../images/tableHoverCase.gif)
+![table hover case](../../../images/tableHoverExample.gif)
 
 ### Mobile
 Due to the complexity of a table in mobile, Lexicon does not define this pattern for mobile viewport size.
