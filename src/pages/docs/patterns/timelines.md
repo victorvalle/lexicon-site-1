@@ -5,8 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 Timelines represent visually events along the time.
 
 ## Usage
@@ -15,27 +13,27 @@ Timelines are series of events placed in a timeline. Each event is composed by a
 
 The point can be any kind of identifier. We recommend the default one, circle, but it can be the case of events related to people where you might prefer to use a user identifier.
 
-### Variations
+## Variations
 
-#### Default
+### Default
 
 The icons are aligned to the left side of the screen.
 
 ![default timeline left aligned](../../../images/timelineDefault.png) 
 
-#### Right timeline
+### Right timeline
 
 The icons are aligned to the right side of the screen.
 
 ![timeline right aligned](../../../images/timelineRight.png) 
 
-#### Center timeline
+### Center timeline
 
 The icons are aligned to the center of the screen.
 
 ![timeline center aligned](../../../images/timelineCenter.png)
 
-#### Even/odd timeline
+### Even/odd timeline
 
 Being in the center the panel can appear in alternate positions starting on the left side for even configuration and starting on the right for odd configuration.
 
@@ -46,7 +44,7 @@ Being in the center the panel can appear in alternate positions starting on the 
 ![timeline center aligned odd order](../../../images/timelineCenterOdd.png) 
 
 
-#### Right XS Timeline only
+### Right XS Timeline only
 
 On window resize to mobile viewport (<768), the timeline icon are always aligned to the left. In case you want to place on the right, it is also possible with this example.
 

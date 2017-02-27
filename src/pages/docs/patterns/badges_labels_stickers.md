@@ -7,12 +7,9 @@ weight: 1
 
 # Badges
 
-## Definition
 Badges help highlight important information such as notifications or new and unread messages. Badges have circular borders by default.
 
-## Usage
-
-### Sizes
+## Sizes
 
 | Size | Usage |
 | ---- | ----- |
@@ -20,7 +17,7 @@ Badges help highlight important information such as notifications or new and unr
 | ![defualt size default color badge](../../../images/badgeDefaultDefault.png) | **Default**: Use it for marking states. |
 | ![large size default color badge](../../../images/badgeLargeDefault.png) | **Large**: Use it when previous don't apply. |
 
-### Types
+## Types
 
 | Type | Usage |
 | ---- | ----- |
@@ -35,7 +32,6 @@ TODO Example of use missing
 
 # Labels
 
-## Definition
 Labels are a mechanism to categorize information providing quick recognition.
 
 ## Usage
@@ -58,7 +54,6 @@ Use labels to organize groups of items in your application. Labels have rounded 
 
 # Stickers
 
-## Definition
 Stickers are a visual way to quickly identify content in a different way than badges and labels. Stickers can be either numbers or characters but always restricted to a maximum number of 3 characters. A sticker can also contain just an icon. Stickers are always squared.
 
 ## Usage

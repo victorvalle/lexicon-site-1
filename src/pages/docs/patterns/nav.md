@@ -5,7 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
 Nav is the pattern that defines the navigation pattern.
 
 ## Variations

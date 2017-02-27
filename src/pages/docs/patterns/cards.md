@@ -5,7 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
 Cards are a very specific visual represntation of data.
 
 ## Usage
@@ -15,7 +14,7 @@ Cards are not meant to compare information in an exhautive way but a light way. 
 
 Cards in Lexicon are open to many configurations. We provide a flexible card layout for you to configure it as you want. Later on this page we provide a series of examples we use in our systems for you to get inspired.
 
-### Layout
+## Layout
 By providing a flexible layout, Lexicon opens you a wider range of possible configurations for your card. Every element can be used or deleted adapting it to your specific needs in each use case.
 
 As you can see in the following image, a card is shaped by:
@@ -32,13 +31,13 @@ Among these elements, the only one that can't be removed for the pattern meaning
 
 It is important to highlight that images can have different size configuration in relation to aspect ratio and cropping. Please, check images section in Marble to get more information about it.
 
-#### Examples of use
+### Examples of use
 
 ![three different examples of card configuration](../../../images/cardExample.png)
 
-### Variations
+## Variations
 
-#### Horizontal card
+### Horizontal card
 
 This card variation is meant to have horizontal representations of information. This card has the same amount of elements as the previous explained. The main purpose of this card is to represent folders, therefore we allow to remove the image in this card type.
 

@@ -5,9 +5,7 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
-TODO: def
+TODO: definition
 
 ## Usage
 

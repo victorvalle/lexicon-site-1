@@ -5,7 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
 A dataset display is the combination of a [management bar](./management_bar.html) with one or many data visualization types. The most common visualization types used are [table](./table.html), [list](./list.html) and [card](./card.html).
 
 ## Usage
@@ -36,4 +35,10 @@ Individual actions are all those actions that an element has. This actions are a
 Colective actions are shown in the management bar when more than one element is selected in the dataset. In case there are  colective actions that don't have an icon representation the can be placed in a dropdown triggered from the actions button.
 
 ![colective actions displayed both in management bar and from actions menu](../../../images/datasetDisplayColectiveActions.png)
+
+### Drag and drop example
+
+The following animations shows how a drag and drop action works in a list view.
+
+![table drag and drop example](../../../images/tableDragDrop.gif)
 

@@ -5,8 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 Lexicon uses Helvetica Neue.
 Lexicon doesn't define Hn values so you can use them freely as you want.
 

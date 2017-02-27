@@ -5,8 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 Tabs let the user move around parallel content in a same context.
 
 ## Usage
@@ -21,17 +19,17 @@ Tabs let the user move around parallel content in a same context.
 * Do not use all caps in the label, this complicates the readability of the tab.
 * One of the tabs must be always pre selected
 
-### Variations
+## Variations
 
 Lexicon counts with two tab bar styles. If there is the case where you have to use both in a page, place first Bordered tabs and second Not bordered tabs.
 
-#### Bordered tabs
+### Bordered tabs
 
 Nav tabs default are used in exterior levels and just below the navigation bar. This kind of tabs give a better context as the border helps the integration with a box below it.
 
 ![bordered tabs](../../../images/tabsBordered.png)
 
-#### Not bordered tabs
+### Not bordered tabs
 
 Not bordered tabs are used in interior levels such as inside forms and in search results for different repositories.
 

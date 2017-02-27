@@ -7,10 +7,7 @@ weight: 1
 
 # Popovers
 
-## Definition
-
 Popovers are short helpful and/or descriptive pieces of information that appear on hover state.
-
 
 ![popover to be displayed on the top side of a question mark icon](../../../images/popoverTop.png) 
 ![popover to be displayed on the bottom side of a question mark icon](../../../images/popoverBottom.png) 
@@ -24,8 +21,6 @@ Popovers are used together with the question mark icon as an affordance to let t
 ![help icon](../../../images/helpIcon.png)
 
 # Tooltips
-
-## Definition
 
 Tooltips are brief pieces of information that appear on hover state over an element to clarify the meaning or use of an interaction element for the user.
 

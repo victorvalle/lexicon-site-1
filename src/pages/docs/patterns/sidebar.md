@@ -5,8 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 Sidebar is a vertical panel that appears from the right side of the screen on interactions like the info button.
 
 ## Usage

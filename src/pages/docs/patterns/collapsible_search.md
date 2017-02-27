@@ -5,8 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 Collapsible search provides a solution for the search text field in mobile resolution as the viewport size is reduced.
 
 ## Usage

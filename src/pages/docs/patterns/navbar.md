@@ -5,12 +5,9 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 A navigation bar, navbar, is an horizontal bar that provides several access points to different parts of a system.
 
 ![default image](../../../images/Navbar.png)
-
 
 ## Usage
 
@@ -20,7 +17,7 @@ A navbar can contain one or several entry points in the form of tabs at the left
 
 The search textfield activity must work only over the active option in the navigation bar.
 
-### Types
+## Types
 
 TODO
 
@@ -31,13 +28,13 @@ What types are being used or what are the most common cases
 * Alternate Navbar Toggle Style
 * Navbar No Collapse
 
-### Examples
+## Examples
 
-**Navbar with search bar**
+### Navbar with search bar
 
 ![default image](../../../images/Navbar.png)
 
-**Navbar with search bar and focus state on search textfield**
+### Navbar with search bar and focus state on search textfield
 
 ![default image](../../../images/NavbarFocusSearch.png)
 

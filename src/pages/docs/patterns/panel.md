@@ -5,35 +5,33 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 Panels help to separate your content.
 
 ## Usage
 
 Panel are use to help separating content a making processes as reading or filling a form easier to the user. Panels are a way of chunking into smaller pieces.
 
-### Configuration
+## Configuration
 
 Panels can be configured in different ways:
 
-**Body**
+### Body
 
 ![panel only body most simple version](../../../images/panelNaked.png)
 
-**Header + body**
+### Header + body
 
 TODO description
 
 ![panel with header](../../../images/panelHeaderBody.png)
 
-**Header + body + footer**
+### Header + body + footer
 
 TODO NOTE: Are we using panel states somewhere?
 
-### Variations
+## Variations
 
-#### Accordion
+### Accordion
 
 Panels can be collapsible. Whenever there is a collapsible panel the header must include a disclosure icon as an affordance to let the user understand that open and close actions can be performed. Please, see that when a panel is open the header is highlighted with a blue line below it marking the active state.
 

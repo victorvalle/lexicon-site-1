@@ -5,15 +5,14 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
 Icon is a visual metaphor representing a concept that lies behind the idea and/or action.
 
-## Icons
+
+## Liferay icon library
+
 Liferay has its own icon library created for the porpuses of the projects that use Lexicon. You can also use other icon libraries.
 
-### Liferay icon Library
-
-TODO
+TODO: plot icons
 
 ### Other icon libraries
 

@@ -7,49 +7,47 @@ weight: 4
 
 # Text field
 
-## Definition
 A textfield is the most basic pattern for introducing text for a conversation between human and machine.
 
-## Usage
+## States
 
-### States
-
-**Default**
+### Default
 
 ![default empty state](../../../images/textfield.png)
 
-**Active**
+### Active
 
 ![default active state](../../../images/textfieldActive.png)
 
-**Disabled**
+### Disabled
 
 ![default disabled state](../../../images/textfieldDisabled.png)
 
-**Read only** TODO
+### Read only TODO
 
 ![default disabled state](../../../images/textfieldDisabled.png)
 
-### Validations
+## Validations
 
-**Success**
+### Success
 
 ![default success state](../../../images/textfieldSuccess.png)
 
-**Warning**
+### Warning
 
 ![default warning state](../../../images/textfieldWarning.png)
 
-**Error**
+### Error
 
 ![default error state](../../../images/textfieldError.png)
 
-### Variations
+## Variations
 
 TODO: Plot textfield variations
 
 
 # Text area
+
 A text area is similar to a text field input but for several lines of text. Text areas allow users to introduce long description of products as an example.
 
 ![text area](../../../images/textarea.png)
