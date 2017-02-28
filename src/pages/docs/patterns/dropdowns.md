@@ -41,7 +41,7 @@ This type allows you to have a big and responsive dropdown that adapts to the co
 
 ## Example of use
 
-This example shows you how dropdowns would look like in a screen when displayed from the kebab menu and the action button. As you can see in the example the dropdown panel arrow can be positioned in different positions. Check Marble implementation to get more details on that.
+This example shows you how dropdowns would look like in a screen when displayed from the kebab menu and the action button. As you can see in the example the dropdown panel arrow can be positioned in different positions. Check Quartz implementation to get more details on that.
 
 ![default dropdown menu example](../../../images/dropdownMenuExample.png)
 
