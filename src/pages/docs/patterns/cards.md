@@ -29,7 +29,7 @@ Among these elements, the only one that can't be removed for the pattern meaning
 
 ![default card layout](../../../images/cardLayout.png)
 
-It is important to highlight that images can have different size configuration in relation to aspect ratio and cropping. Please, check images section in Marble to get more information about it.
+It is important to highlight that images can have different size configuration in relation to aspect ratio and cropping. Please, check images section in Quartz to get more information about it.
 
 ### Examples of use
 

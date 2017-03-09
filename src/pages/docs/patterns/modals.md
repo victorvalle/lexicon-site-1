@@ -49,7 +49,7 @@ This case is thought for those cases where you need to just show text and button
 
 ### iFrame in the body
 
-It is always possible to bring an iFrame inside the body. For more information about this check Marble.
+It is always possible to bring an iFrame inside the body. For more information about this check Quartz.
 
 
 ## Mobile

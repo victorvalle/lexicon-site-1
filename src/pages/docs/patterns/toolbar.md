@@ -5,8 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
-
 A toolbar is a set of actions related to a context grouped in a bar.
 
 ## Usage
