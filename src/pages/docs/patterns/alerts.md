@@ -47,9 +47,5 @@ This alert is placed right below the navigation bar.
 ### Alert notification				
 Notifications display information about something that has happened or is happening in the system. These alerts are not related to actions that are being performed by the user at that moment. Unlike alerts, notifications are displayed on the top right corner of the screen. Both desktop and mobile notifications have similar dimensions.
 
-![notification info alert](../../../images/alertNotificationInfo.png) 
-![notification success alert](../../../images/alertNotificationSuccess.png)
-
-![notification warning alert](../../../images/alertNotificationWarning.png) 
-![notification error alert](../../../images/alertNotificationError.png)
+![set of four notification alerts](../../../images/alertsNotification.png) 
 

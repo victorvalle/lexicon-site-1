@@ -49,5 +49,3 @@ Being in the center the panel can appear in alternate positions starting on the 
 On window resize to mobile viewport (<768), the timeline icon are always aligned to the left. In case you want to place on the right, it is also possible with this example.
 
 ![timeline right aligned extra small ](../../../images/timelineCenterRightXSOnly.png) 
-
-TODO: review

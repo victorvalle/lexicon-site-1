@@ -5,7 +5,6 @@ layout: "guide"
 weight: 1
 ---
 
-## Definition
 Buttons communicate an action to happen on user interaction.
 
 ## Types
@@ -20,21 +19,15 @@ Buttons communicate an action to happen on user interaction.
 
 **Default state**
 
-![button primary default size defuault state](../../../images/buttonPrimaryDefaultDefault.png)
-![button secondary default size defuault state](../../../images/buttonSecondaryDefaultDefault.png)
-![button link default size defuault state](../../../images/buttonLinkDefaultDefault.png)
+![set of three button types in default state](../../../images/buttonsDefault.png)
 
 **Active & Hover states**
 
-![button primary default size active state](../../../images/buttonPrimaryDefaultActive.png)
-![button secondary default size active state](../../../images/buttonSecondaryDefaultActive.png)
-![button link default size active state](../../../images/buttonLinkDefaultActive.png)
+![set of three button types in active state](../../../images/buttonsActive.png)
 
 **Disable state**
 
-![button primary default size disable state](../../../images/buttonPrimaryDefaultDisabled.png)
-![button secondary default size disable state](../../../images/buttonSecondaryDefaultDisabled.png)
-![button link default size disable state](../../../images/buttonLinkDefaultDisabled.png)
+![set of three button types in disabled state](../../../images/buttonsDisabled.png)
 
 ## Sizes
 

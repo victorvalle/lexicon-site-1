@@ -24,11 +24,6 @@ Badges help highlight important information such as notifications or new and unr
 | ![defualt size default color badge](../../../images/badgeDefaultDefault.png) | Used to identify.|
 | ![defualt size default color close option badge](../../../images/badgeCloseDefaultDefault.png) | Used to identify with the possibility of removing it.|
 
-## Example of use
-
-TODO Example of use missing
-
-
 
 # Labels
 
@@ -63,7 +58,7 @@ Use stickers to visually identify elements in a dataset that are part of a same 
 
 | Size | Usage |
 | ---- | ----- |
-| ![small size default color sticker](../../../images/stickerSquaredSmall.png) | 22x22. TODO |
+| ![small size default color sticker](../../../images/stickerSquaredSmall.png) | 22x22. Use it in smaller contexts where you only need visual identification but not manual interaction with this element. |
 | ![defualt size default color sticker](../../../images/stickerSquaredDefault.png) | 32x32. Use it in cards that are image based, allowing to see more parts of the image. |
 | ![large size default color sticker](../../../images/stickerSquaredSmall.png) | 44x44. Use it in cards that are not image based, or list entries. |
 

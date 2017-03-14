@@ -33,12 +33,6 @@ Scrolling content type is prepared to have scroll in all the dropdown menu or ju
 
 ![default dropdown menu with scroll](../../../images/dropdownMenuScroll.png)
 
-### Dropdown wide / full
-
-This type allows you to have a big and responsive dropdown that adapts to the container width or window resize from the default width value, 500px. This value can be adapted to your needs.
-
-![default image](../../../images/lexiconDefault.png)
-
 ## Example of use
 
 This example shows you how dropdowns would look like in a screen when displayed from the kebab menu and the action button. As you can see in the example the dropdown panel arrow can be positioned in different positions. Check Quartz implementation to get more details on that.

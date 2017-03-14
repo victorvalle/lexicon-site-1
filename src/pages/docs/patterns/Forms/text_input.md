@@ -23,9 +23,9 @@ A textfield is the most basic pattern for introducing text for a conversation be
 
 ![default disabled state](../../../images/textfieldDisabled.png)
 
-### Read only TODO
+### Read only
 
-![default disabled state](../../../images/textfieldDisabled.png)
+![default disabled state](../../../images/textfieldReadonly.png)
 
 ## Validations
 
@@ -40,10 +40,6 @@ A textfield is the most basic pattern for introducing text for a conversation be
 ### Error
 
 ![default error state](../../../images/textfieldError.png)
-
-## Variations
-
-TODO: Plot textfield variations
 
 
 # Text area

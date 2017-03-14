@@ -1,11 +1,11 @@
 ---
-title: "Colors"
+title: "Color palette"
 description: "Colors pattern description"
 layout: "guide"
 weight: 1
 ---
 
-TODO: definition
+Color palette defines a set of color to be used in the system. Each of the colors has a meaning and a purpose to create a robust a design system.
 
 ## Usage
 

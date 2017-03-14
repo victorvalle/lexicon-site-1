@@ -1,5 +1,5 @@
 ---
-title: "Forms WIP"
+title: "Forms"
 description: "Forms pattern description"
 layout: "guide"
 weight: 1
@@ -16,8 +16,6 @@ When applying columns take into account that the reading directions is left-righ
 ## Sections
 
 Sections help users to fill a form by chunking the form is smaller pieces. A form section is identified with an [accordion](./panel.html). There is no limitation in the number of accordions to use.
-
-TODO: Review: In case you need to use a subsection use header X
 
 ## Fields’ order
 
