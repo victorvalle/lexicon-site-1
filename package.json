@@ -4,7 +4,8 @@
   "private": true,
   "repository": "/lexicon-site-1",
   "dependencies": {
-    "marble": "^2.3.0"
+    "marble": "^2.3.0",
+    "markdown-it-external-links": "0.0.6"
   },
   "devDependencies": {
     "electric": "~1.2.0",

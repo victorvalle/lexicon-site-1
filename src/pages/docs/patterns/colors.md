@@ -5,14 +5,14 @@ layout: "guide"
 weight: 1
 ---
 
-Color palette defines a set of color to be used in the system. Each of the colors has a meaning and a purpose to create a robust a design system.
+Color palette defines a set of colors to be used in the system. Each of the colors has a meaning and a purpose to create a robust a design system.
 
 ## Usage
 
 Colors have a huge impact in a system as they define the visual identity, they bring armony, they communicate, among other caracteristics. Lexicon defines the following color palette that you are free to change for your own.
 
 ### Primary colors
-
+an
 Primary colors define part of the visual identity of Lexicon as a system. These colors have been carefully thought to be easily combined and be sure that accessibility is well covered.
 
 ![set of 4 primary colors](../../../images/colorsPrimary.png)

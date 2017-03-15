@@ -12,6 +12,9 @@ Icon is a visual metaphor representing a concept that lies behind the idea and/o
 
 Liferay has its own icon library created for the porpuses of the projects that use Lexicon. You can also use other icon libraries. [Check our icon library](http://liferay.github.io/lexicon/content/icons-lexicon/).
 
+![icon set column 1](../../../images/icons1.png)
+![icon set column 2](../../../images/icons2.png)
+![icon set column 3](../../../images/icons3.png)
 
 ### Language flags
 
